@@ -4,6 +4,6 @@ Disclaimer: This tool is developed strictly for educational and authorized testi
 
 # How to use ?
 1. Just download the Python file.
-2. Then enter a domain or IP as you wish.
+2. Then enter any domain or IP.
 3. For IP, it will only give geolocation, ASN info, and open ports.
 4. For Domain, it will give more features, including open ports (no ASN info or geolocation).
